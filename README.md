@@ -1,6 +1,6 @@
-# Stocker
+# Stocker-(The Stock Market Predictor)
 Stock Market Predictor Using LSTM
-This project is a stock market price predictor that utilizes historical stock price data, processes it using machine learning techniques, and employs a Long Short-Term Memory (LSTM) neural network to predict future stock prices.
+This project is a stock market price predictor that utilizes historical stock price data, processes it using machine learning techniques, and employs a Long Short-Term Memory (LSTM) neural network to predict future stock market prices.
 
 Project Overview
 The program fetches real-time stock price data using the Yahoo Finance (yfinance) API, processes it, and then trains an LSTM deep learning model to make predictions. It is designed to predict the next closing price of a given stock based on past trends.
